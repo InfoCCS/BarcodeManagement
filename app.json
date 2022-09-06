@@ -1,0 +1,25 @@
+{
+  "id": "79d4475a-9d15-4474-8e13-a9933e8ffbbb",
+  "name": "BarcodeManagement",
+  "publisher": "Concept Cloud Services",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
